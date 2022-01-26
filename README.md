@@ -6,6 +6,6 @@ If you want to work off of this base to create your own Snake game, feel free to
 This project was created in Kotlin
 
 #Tools
-* Kotlin [https://kotlinlang.org]
-* Jetpack Compose [https://developer.android.com/jetpack/compose]
-* Retorfit [https://square.github.io/retrofit/]
+* [Kotlin](https://kotlinlang.org])
+* [Jetpack Compose](https://developer.android.com/jetpack/compose)
+* [Retorfit](https://square.github.io/retrofit/)
